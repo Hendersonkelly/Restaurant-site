@@ -1,0 +1,87 @@
+/*  colors 
+gold= #FFC719
+pink= #FF193B
+purple= #421196
+light purple= #9529FF
+red = #B8001C
+
+
+
+
+*/
+/* Background Colors */
+.bg-gold{
+    background-color: #FFC719 ;
+}
+
+.bg-pink{
+    background-color: #FF193B;
+}
+
+.bg-purple{
+    background-color: #421196;
+}
+
+.bg-ltPurple{
+    background-color: #9529FF
+      
+}
+.bg-red{
+    background-color: #B8001C;
+}
+
+/* text colors*/
+
+.text-gold{
+    color: #FFC719 ;
+}
+.text-gold a{
+    color: #FFC719 ;
+}
+.text-gold a:hover{
+    color:#9529FF ;
+}
+
+.text-pink{
+    color: #FF193B;
+}
+
+.text-purple{
+    color: #421196;
+}
+.text-purple a{
+    color: #421196;
+}
+
+
+.text-ltPurple{
+    color: #9529FF
+      
+}
+.text-ltPurple a{
+    color: #9529FF
+      
+}
+.text-red{
+    color: #B8001C;
+}
+
+
+
+.button{
+    border: solid #FF193B;
+   background-color:#FFC719;
+   
+}
+
+
+img{
+    width: 50%;
+    height: auto;
+  }
+ 
+    
+
+
+   
+  

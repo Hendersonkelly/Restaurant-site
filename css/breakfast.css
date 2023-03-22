@@ -1,0 +1,15 @@
+.heading{
+    font-size: 36px;
+    font-weight: bold;
+    color: #FFC719;
+}
+
+.parallax{
+    background-image: url("https://scontent-hou1-1.xx.fbcdn.net/v/t1.6435-9/77186072_644399962758112_1916155257738493952_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=730e14&_nc_ohc=eOV7bpgmu8IAX-Fc0KW&_nc_ht=scontent-hou1-1.xx&oh=00_AfAXMKSONxqp8_4ub_Dp-eVcycezt52U8KGsP_z6aOf87g&oe=644152C5");
+    min-height: 900px;
+    background-attachment: fixed;
+    background-position: center ;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
